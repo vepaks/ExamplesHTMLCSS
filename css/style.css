@@ -13,7 +13,7 @@ inline-style
 */
 
 
-.header {
+#header {
     color: rgb(214, 127, 255);
     background-color: rgb(255, 238, 0);
 }
@@ -21,6 +21,7 @@ inline-style
 .ull {
     color: red;
     background-color: royalblue;
+
 }
 
 p mark {
@@ -31,3 +32,8 @@ mark{
     font-size: 22px;
     background-color: blue;
 }
+
+#header {
+    color: black;
+}
+
