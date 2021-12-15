@@ -1,0 +1,33 @@
+/*
+
+прериоритети
+от най-ниско до най-високо
+* {}
+p{}
+.class-name {}
+# id-name {}
+inline-style 
+
+при съчетавене прериоритета се сборуват
+
+*/
+
+
+.header {
+    color: rgb(214, 127, 255);
+    background-color: rgb(255, 238, 0);
+}
+
+.ull {
+    color: red;
+    background-color: royalblue;
+}
+
+p mark {
+    background-color: red;
+}
+
+mark{
+    font-size: 22px;
+    background-color: blue;
+}
